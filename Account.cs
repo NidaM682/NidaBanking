@@ -1,5 +1,5 @@
 using System;
-class abstract Account{
+abstract class Account{
     private int accountNumber;
     protected double balance;
     public int AccountNumber{
